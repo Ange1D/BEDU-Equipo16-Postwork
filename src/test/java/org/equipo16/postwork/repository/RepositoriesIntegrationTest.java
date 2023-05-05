@@ -1,4 +1,4 @@
-package org.equipo16.postwork.persistence;
+package org.equipo16.postwork.repository;
 
 import org.equipo16.postwork.model.Curso;
 import org.equipo16.postwork.model.Estudiante;
